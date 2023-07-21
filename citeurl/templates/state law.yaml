@@ -1926,7 +1926,7 @@ Texas Constitution:
 Texas Administrative Code:
   inherit: New York Codes, Rules, and Regulations
   meta:
-    name regex: (Tex(as|\.?)|AZ) Admin(istrative|\.?) Code
+    name regex: (Tex(as|\.?)|TX) Admin(istrative|\.?) Code|TAC
     abbreviation: Tex. Admin. Code
   name builder:
     parts:
